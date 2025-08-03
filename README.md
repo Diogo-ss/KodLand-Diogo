@@ -1,7 +1,7 @@
 ## Como Funciona o Jogo 🎮
 
 ### Objetivo Principal 🎯
-  - Sobreviver o máximo de tempo possível, desviando-se ou destruindo os inimigos que aparecem.
+  - Sobreviver o máximo de tempo possível, desviando-se dos inimigos que aparecem.
 
   - Acumular a maior pontuação. 🏆
 

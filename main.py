@@ -173,7 +173,7 @@ def update(dt):
     if not enemy_exists:
         generate_random_enemy()
     else:
-        # Lógica de perseguição do inimigo (CORRIGIDA)
+        # Lógica de perseguição do inimigo
         target_dx, target_dy = player.x - enemy.x, player.y - enemy.y
         magnitude = (target_dx**2 + target_dy**2)**0.5
 
